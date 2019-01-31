@@ -43,7 +43,7 @@ After a company is in the system, you should fill in several main fields:
   Everything else like the type of crypto services used or comments is optional. Fill those fields if you have some additional info.  
 
 ### Lead cycle explained
-![Lead cycle explained](master/cycle.png)
+![Lead cycle explained](https://github.com/kenest2/D3-CRM/blob/master/cycle.png)
 
 ### When to start a deal
 A deal is a potential sale or contract of another kind. Our KPIs are tied to the deals with companies, so it's essential to use deals. When to open a deal? Then there is a possibility of some contract to be signed. Types of contracts may include:
