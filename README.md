@@ -10,11 +10,14 @@ We are interested in companies mostly. Companies came in via people so at first,
 A lead is simply a company with some potential. We may have many contacts inside a given company. Also, we may have several deals tied to a company. 
 
 ### How to add a company and what to fill in
-You can add a company via [desktop CRM](https://app.hubspot.com/contacts/5107533/companies/list/view/all/) or via mobile up [iOS](https://itunes.apple.com/us/app/hubspot/id1107711722?mt=8) [Android](https://play.google.com/store/apps/details?id=com.hubspot.android&hl=en_US). You can scan a business card in the app. After a company is in the system, you should fill in several main fields:
+You can add a company via [desktop CRM](https://app.hubspot.com/contacts/5107533/companies/list/view/all/) or via mobile app [iOS](https://itunes.apple.com/us/app/hubspot/id1107711722?mt=8)/ [Android](https://play.google.com/store/apps/details?id=com.hubspot.android&hl=en_US). You can scan a business card in the app. 
 
-* **Role in D3**. 
+After a company is in the system, you should fill in several main fields:
 
-  Self-explanatory: what type of a partner or client this company may be? **Do not add more than 2 roles to a lead.** If you    want to add more than 2, this means we haven’t qualified this lead good enough. It’s an essential field because we measure our success by how many companies of different types we have added in a given week, month, or quarter. 
+* **Company onwer**: who is working with the company now
+
+* **Priority**: *High* is what you plan on working soon, other statuses are self-explanatory. 
+
 
 * **Lead status**. Our main metric is Lead Status. It can be:
   * Cold (just added in the system for the future)
@@ -26,6 +29,18 @@ You can add a company via [desktop CRM](https://app.hubspot.com/contacts/5107533
   * Discarded (we don't see any potential)
 
   Please, always change Lead Status after you've made positive or negative progress with the company.
+
+* **Role in D3**. 
+
+  Self-explanatory: what type of a partner or client this company may be? **Do not add more than 2 roles to a lead.** If you    want to add more than 2, this means we haven’t qualified this lead good enough. It’s an essential field because we measure our success by how many companies of different types we have added in a given week, month, or quarter. 
+
+* **Success estimate**
+  
+  How likely are we to sign a contract with this company? 
+  
+* **Other fields** 
+
+  Everything else like the type of crypto services used or comments is optional. Fill those fields if you have some additional info.  
 
 ### Lead cycle explained
 ![GitHub Logo](/images/logo.png)
