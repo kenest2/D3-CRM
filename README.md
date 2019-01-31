@@ -6,7 +6,7 @@ To help D3ledger team to work with CRM in an unified way via simple guidlines.
 ### Work primarily with companies
 We are interested in companies mostly. Companies came in via people so at first, we may add a person. However, afterward, we should add her/his company. We measure our progress by companies signed/lost, not by people contacted. 
 
-### Leads vs. deals
+### Work with leads, create deals inside a lead
 A lead is simply a company with some potential. We may have many contacts inside a given company. Also, we may have several deals tied to a company. 
 
 ### How to add a company and what to fill in
