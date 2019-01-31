@@ -43,7 +43,7 @@ After a company is in the system, you should fill in several main fields:
   Everything else like the type of crypto services used or comments is optional. Fill those fields if you have some additional info.  
 
 ### Lead cycle explained
-![GitHub Logo](/images/logo.png)
+!(https://tppr.s3.amazonaws.com/uploads/ce4cd23d37f48a9393060927dde33499.png)
 
 
 ### When to start a deal
